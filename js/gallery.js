@@ -1,0 +1,3 @@
+// build time:Wed Jun 10 2020 00:28:42 GMT+0800 (GMT+08:00)
+document.addEventListener("DOMContentLoaded",function(){if(typeof $.fn.lightGallery==="function"){$(".article").lightGallery({selector:".gallery-item"})}if(typeof $.fn.justifiedGallery==="function"){if($(".justified-gallery > p > .gallery-item").length){$(".justified-gallery > p > .gallery-item").unwrap()}$(".justified-gallery").justifiedGallery()}});
+//rebuild by neat 
